@@ -10,6 +10,8 @@ public class ModelSample {
 		
 		System.out.println(":)");
 		
+		
+		
 	}
 	
 	

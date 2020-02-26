@@ -5,7 +5,7 @@ public class SampleBean {
 	private String name;
 	private int number;
 	
-	
+	//
 	public SampleBean(String name, int number) {
 		super();
 		this.name = name;
